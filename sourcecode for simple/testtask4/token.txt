@@ -1,0 +1,4 @@
+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
+
+
+git remote add origin https://chonesial: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@git@github.com:chonesial/testingtaskfour.git
